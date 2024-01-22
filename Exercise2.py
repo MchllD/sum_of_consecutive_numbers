@@ -25,3 +25,6 @@ for i in range(1, 21):
     print(f"Current Number: {i}, Previous Number: {previous_num}, Sum: {current_sum}")
     
 
+    
+    
+
