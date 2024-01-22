@@ -24,6 +24,11 @@ for i in range(1, 21):
     # Print the sum of the current and previous numbers
     print(f"Current Number: {i}, Previous Number: {previous_num}, Sum: {current_sum}")
     
+    
+    # Update the previous number for the next iteration
+    previous_num = i
+
+    
 
     
     
